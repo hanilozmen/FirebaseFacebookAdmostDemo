@@ -19,7 +19,5 @@ firebase-unity-sdk: 6.9.0
 jar-resolver: 1.2.135
 
  NOTE: Because of Github 100MB file limit
-
 Go to C:\DevArea\UNITY\FirebaseFacebookAdmost\FirebaseFacebookAdmost\Assets\Firebase\Plugins\x86_64
-
-Extract FirebaseCppApp-6_9_0.rar to here
+Extract FirebaseCppApp-6_9_0.rar
