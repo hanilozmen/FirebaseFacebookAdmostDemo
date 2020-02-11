@@ -18,10 +18,9 @@ This is a sample Unity 2019.3.06f app to be used with Firebase , FacebookSDK, Ad
 
 - jar-resolver: 1.2.135
 
-  
 
  **NOTE: Because of Github 100MB file limit**
 
 1. Go to -> Assets\Firebase\Plugins\x86_64
 
-2. Extract FirebaseCppApp-6_9_0.rar to there. There will be .so file
+2.  Extract FirebaseCppApp-6_9_0.rar to there. There will be a .so file
